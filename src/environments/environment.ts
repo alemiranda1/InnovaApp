@@ -5,14 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyBPg8NA_HwloQ30cBpJ6ebZnNUb9BGqQ1Q',
-    authDomain: 'innovaapp.firebaseapp.com',
-    databaseURL: 'https://innovaapp.firebaseio.com',
-    projectId: 'innovaapp',
-    storageBucket: 'innovaapp.appspot.com',
-    messagingSenderId: '310163991583',
-    appId: '1:310163991583:web:2444dc91eee401a19a792a',
-    measurementId: 'G-Z4T2KBJZW3'
+    apiKey: 'AIzaSyBFKj7n9BaYdiHr6-TD0vOxkq0Z7myDIjA',
+    authDomain: 'innovaapp-603dd.firebaseapp.com',
+    databaseURL: 'https://innovaapp-603dd.firebaseio.com',
+    projectId: 'innovaapp-603dd',
+    storageBucket: 'innovaapp-603dd.appspot.com',
+    messagingSenderId: '754788442781',
+    appId: '1:754788442781:web:9e22b37afd2b8baadbea74',
   }
 };
 
